@@ -81,7 +81,7 @@ I'm particularly interested in teams where I can contribute to real products whi
 ### 🧰 Tools, DevOps & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,cloudflare,figma,vscode,apple,xcode" alt="Tools and platforms"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,cloudflare,figma,vscode,apple,xcode" alt="Tools and platforms"/>
 </p>
 
 ---
@@ -90,7 +90,7 @@ I'm particularly interested in teams where I can contribute to real products whi
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### Frontend
 
@@ -102,7 +102,7 @@ I'm particularly interested in teams where I can contribute to real products whi
 - UI/UX implementation
 
 </td>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### Backend
 
@@ -116,7 +116,7 @@ I'm particularly interested in teams where I can contribute to real products whi
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### Mobile
 
@@ -154,51 +154,6 @@ Native iOS projects exploring modern Apple development patterns and architecture
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tranhdnhduy160620&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranhdnhduy160620&layout=compact&langs_count=8&hide_border=true" alt="Top languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tranhdnhduy160620&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!--
-Generate this animation with GitHub Actions.
-See the workflow section below.
--->
-
-<img src="https://raw.githubusercontent.com/tranhdnhduy160620/tranhdnhduy160620/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tranhdnhduy160620&hide_border=true&area=true&radius=8" width="95%" alt="GitHub activity graph"/>
-
-</div>
-
----
-
 ## 📚 Currently Exploring
 
 ```text
@@ -232,7 +187,7 @@ I believe the best way to learn software engineering is to build real things, en
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/tran-duy-8425011ba">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
